@@ -1,0 +1,12 @@
+{
+    "cit-24-02-0125": {
+        "name": "Oshanda induwara",
+        "course": "Data science",
+        "birthday": "2003-04-13"
+    },
+    "dssgahah": {
+        "name": "Test Birthday",
+        "course": "Test",
+        "birthday": "2004-10-02"
+    }
+}
